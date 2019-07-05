@@ -5,7 +5,7 @@ A tool that counts the number of RBC, WBC and platelets in low quality smudged m
 This can be used to make the diagnosis of anemia and leukopenia cheaper and faster with minimal need for a pathologist to do the tests.  
 
 
-## ---------------- Predicted ------------------|----------------- Ground Truth -------------
+## ---------------- Predicted -------------------|---------------- Ground Truth -------------
 
 ![Result Demo:]( https://github.com/ekagra-ranjan/Blood-Smear-Analyzer/blob/master/result_23.jpg  "Home Page")
 
